@@ -1,2 +1,2 @@
 # Vert.x
-Vertx Handson
+Vert.x Handson
