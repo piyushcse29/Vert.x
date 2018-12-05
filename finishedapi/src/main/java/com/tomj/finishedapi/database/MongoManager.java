@@ -1,7 +1,5 @@
 package com.tomj.finishedapi.database;
 
-import java.util.List;
-
 import io.vertx.core.Vertx;
 import io.vertx.core.eventbus.Message;
 import io.vertx.core.json.JsonObject;
@@ -9,6 +7,8 @@ import io.vertx.core.logging.Logger;
 import io.vertx.core.logging.LoggerFactory;
 import io.vertx.ext.mongo.FindOptions;
 import io.vertx.ext.mongo.MongoClient;
+
+import java.util.List;
 
 public class MongoManager {
 

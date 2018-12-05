@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c888073d-3ea9-4262-8d10-28dcb73edcf4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tomj/basicweb/BasicWebVerticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tomj/basicweb/BasicWebVerticle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/VertxClass/basicweb/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/VertxClass/basicweb/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tomj/basicweb/BasicWebVerticle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../finishedapi/src/main/java/com/tomj/finishedapi/FinishedAPIVerticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../finishedapi/src/main/java/com/tomj/finishedapi/FinishedAPIVerticle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../finishedapi/src/main/java/com/tomj/finishedapi/MongoDBVerticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../finishedapi/src/main/java/com/tomj/finishedapi/MongoDBVerticle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../finishedapi/src/main/java/com/tomj/finishedapi/database/MongoManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../finishedapi/src/main/java/com/tomj/finishedapi/database/MongoManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../finishedapi/src/main/java/com/tomj/finishedapi/resources/ProductResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/../finishedapi/src/main/java/com/tomj/finishedapi/resources/ProductResources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstvertx/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../firstvertx/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstvertx/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstvertx/target/classes/META-INF/maven/VertxClass/firstvertx/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstvertx/target/classes/META-INF/maven/VertxClass/firstvertx/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstvertx/target/classes/com/tomj/firstvertx/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../firstvertx/target/classes/com/tomj/firstvertx/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firstvertx/target/test-classes/com/tomj/firstvertx/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../firstvertx/target/test-classes/com/tomj/firstvertx/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formalapi/src/main/java/com/tjay/formalapi/FormalAPIVerticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../formalapi/src/main/java/com/tjay/formalapi/FormalAPIVerticle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../formalapi/src/main/java/com/tjay/formalapi/resources/ProductResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/../formalapi/src/main/java/com/tjay/formalapi/resources/ProductResources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../helloworldapi/src/main/java/com/tomj/helloworldapi/HelloWorldAPIVerticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../helloworldapi/src/main/java/com/tomj/helloworldapi/HelloWorldAPIVerticle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vertxmongo/src/main/java/com/tomj/vertxmongo/VertxMongoVerticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vertxmongo/src/main/java/com/tomj/vertxmongo/VertxMongoVerticle.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="445314815">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="iml" value="1" />
+          <entry key="java" value="2" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="2" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tomj/basicweb/BasicWebVerticle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/basicweb.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/tomj/basicweb/AppTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="753">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="828" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="basicweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basicweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basicweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basicweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basicweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basicweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basicweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basicweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="basicweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="basicweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="basicweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542705622595" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c888073d-3ea9-4262-8d10-28dcb73edcf4" name="Default Changelist" comment="" />
+      <created>1542705497743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542705497743</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12875536" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/basicweb.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tomj/basicweb/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="753">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tomj/basicweb/BasicWebVerticle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="20" lean-forward="true" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

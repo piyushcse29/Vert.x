@@ -1,31 +1,22 @@
 package com.tjay.formalapi;
 
 
-import java.io.File;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
-
-import com.tjay.formalapi.entity.Product;
 import com.tjay.formalapi.resources.ProductResources;
-
 import io.vertx.config.ConfigRetriever;
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.DeploymentOptions;
 import io.vertx.core.Vertx;
-import io.vertx.core.http.HttpHeaders;
-import io.vertx.core.json.Json;
-import io.vertx.core.json.JsonArray;
 import io.vertx.core.json.JsonObject;
 import io.vertx.core.logging.Logger;
 import io.vertx.core.logging.LoggerFactory;
 import io.vertx.ext.web.Cookie;
 import io.vertx.ext.web.Router;
-import io.vertx.ext.web.RoutingContext;
-import io.vertx.ext.web.handler.BodyHandler;
 import io.vertx.ext.web.handler.CookieHandler;
 import io.vertx.ext.web.handler.StaticHandler;
+
+import java.io.File;
+import java.io.IOException;
+import java.util.Scanner;
 
 /**
  * Hello world!

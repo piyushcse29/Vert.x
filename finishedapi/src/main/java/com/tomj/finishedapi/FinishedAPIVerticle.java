@@ -1,13 +1,7 @@
 package com.tomj.finishedapi;
 
 
-
-import java.io.File;
-import java.io.IOException;
-import java.util.Scanner;
-
 import com.tomj.finishedapi.resources.ProductResources;
-
 import io.vertx.config.ConfigRetriever;
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.DeploymentOptions;
@@ -21,6 +15,10 @@ import io.vertx.ext.web.Cookie;
 import io.vertx.ext.web.Router;
 import io.vertx.ext.web.handler.CookieHandler;
 import io.vertx.ext.web.handler.StaticHandler;
+
+import java.io.File;
+import java.io.IOException;
+import java.util.Scanner;
 
 /**
  * Hello world!

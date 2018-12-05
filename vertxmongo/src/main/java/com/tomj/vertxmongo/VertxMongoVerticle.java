@@ -1,11 +1,7 @@
 package com.tomj.vertxmongo;
 
 
-import java.util.List;
-
-import io.vertx.config.ConfigRetriever;
 import io.vertx.core.AbstractVerticle;
-import io.vertx.core.DeploymentOptions;
 import io.vertx.core.Vertx;
 import io.vertx.core.VertxOptions;
 import io.vertx.core.json.Json;
@@ -16,6 +12,8 @@ import io.vertx.ext.mongo.FindOptions;
 import io.vertx.ext.mongo.MongoClient;
 import io.vertx.ext.web.Router;
 import io.vertx.ext.web.RoutingContext;
+
+import java.util.List;
 
 /**
  * Hello world!

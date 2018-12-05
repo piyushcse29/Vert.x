@@ -1,10 +1,6 @@
 package com.tomj.finishedapi.resources;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import com.tomj.finishedapi.entity.Product;
-
 import io.vertx.core.Vertx;
 import io.vertx.core.http.HttpHeaders;
 import io.vertx.core.json.Json;

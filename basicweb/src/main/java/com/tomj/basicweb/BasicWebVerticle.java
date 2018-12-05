@@ -1,15 +1,15 @@
 package com.tomj.basicweb;
 
-import java.io.File;
-import java.io.IOException;
-import java.util.Scanner;
-
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Vertx;
 import io.vertx.core.logging.Logger;
 import io.vertx.core.logging.LoggerFactory;
 import io.vertx.ext.web.Router;
 import io.vertx.ext.web.handler.StaticHandler;
+
+import java.io.File;
+import java.io.IOException;
+import java.util.Scanner;
 
 /**
  * Hello world!

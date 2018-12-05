@@ -1,14 +1,15 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+		 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
 
-  <groupId>VertxClass</groupId>
-  <artifactId>basicweb</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+	<groupId>VertxClass</groupId>
+	<artifactId>firstvertx</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 
-  <name>basicweb</name>
-  <url>http://maven.apache.org</url>
+	<name>basicweb</name>
+	<url>http://maven.apache.org</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -25,11 +26,6 @@
 			<version>${vertx.version}</version>
 		</dependency>
 
-		<dependency>
-			<groupId>io.vertx</groupId>
-			<artifactId>vertx-web</artifactId>
-			<version>${vertx.version}</version>
-		</dependency>
 
 
 		<dependency>
@@ -43,7 +39,7 @@
 	<build>
 		<pluginManagement>
 			<plugins>
-				<!-- We specify the Maven compiler plugin as we need to set it to Java 
+				<!-- We specify the Maven compiler plugin as we need to set it to Java
 					1.8 -->
 				<plugin>
 					<artifactId>maven-compiler-plugin</artifactId>

@@ -1,10 +1,6 @@
 package com.tjay.formalapi.resources;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import com.tjay.formalapi.entity.Product;
-
 import io.vertx.core.Vertx;
 import io.vertx.core.http.HttpHeaders;
 import io.vertx.core.json.Json;
@@ -14,6 +10,9 @@ import io.vertx.core.logging.LoggerFactory;
 import io.vertx.ext.web.Router;
 import io.vertx.ext.web.RoutingContext;
 import io.vertx.ext.web.handler.BodyHandler;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class ProductResources {
 

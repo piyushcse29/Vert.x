@@ -1,9 +1,7 @@
 package com.tomj.finishedapi;
 
 
-
 import com.tomj.finishedapi.database.MongoManager;
-
 import io.vertx.config.ConfigRetriever;
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.DeploymentOptions;
